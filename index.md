@@ -16,5 +16,3 @@ I am an undergraduate student at Tokyo University of Science in Japan, graduatin
 
 
 {% include_relative _includes/publications.md %}
-
-{% include_relative _includes/services.md %}
