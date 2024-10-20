@@ -6,7 +6,7 @@ layout: homepage
 
 I am an undergraduate student at Tokyo University of Science in Japan, graduating in March 2025.
 
-**I am looking for a Ph.D. program to join. Please feel free to reach out via email if interested!**
+**I am looking for a Ph.D. program starting in Fall 2025. Please feel free to reach out via email if interested!**
 
 ## Research Interests
 
