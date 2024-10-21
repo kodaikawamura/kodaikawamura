@@ -10,8 +10,8 @@ I am an undergraduate student at Tokyo University of Science in Japan, graduatin
 
 ## Research Interests
 
-- **Machine Learning:** Computer Vision, Efficient Learning, and Vision-Language Models. 
-- **Artificial Intelligence:** AI Security, Copyright Protection, and AI Watermarking.
+- **Machine Learning:** Computer Vision, Domain Adaptation, Model Adaptation, and Vision-Language Models. 
+- **Artificial Intelligence:** AI Security and AI Watermarking.
 
 ## News
 - **[July. 2024]** First author paper is accepted to BMVC 2024.
