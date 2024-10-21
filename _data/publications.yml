@@ -4,7 +4,7 @@ main:
     authors: Kodai Kawamura, Shunya Yamagami, Go Irie
     conference_short: BMVC
     conference: British Machine Vision Conference <strong>(BMVC)</strong>, 2024.
-    #pdf: https://arxiv.org/pdf/2306.00988.pdf
+    pdf: https://github.com/kodaikawamura/Region-basedTTA
     #code: https://github.com/MrGiovanni/ContinualLearning
     #bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/BMVC2024.png
