@@ -2,8 +2,8 @@ main:
 
   - title: LVMark: Robust Watermark for latent video diffusion models
     authors: Minhyuk Jang, Youngdong Jang, JaeHyeok Lee,  <strong>Kodai Kawamura</strong>, Feng Yang, Sangpil Kim
-    conference_short: Preprint
-    conference: Preprint
+    #conference_short: Preprint
+    #conference: Preprint
     #pdf: ./assets/files/BMVC_mainpaper.pdf
     #code: https://github.com/kodaikawamura/Region-basedTTA
     #bibtex: https://bib.yliu.me/MICCAI23.txt
