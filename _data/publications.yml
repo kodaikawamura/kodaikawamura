@@ -1,15 +1,5 @@
 main:
 
-  - title: LVMark: Robust Watermark for latent video diffusion models
-    authors: Minhyuk Jang, Youngdong Jang, JaeHyeok Lee,  <strong>Kodai Kawamura</strong>, Feng Yang, Sangpil Kim
-    #conference_short: Preprint
-    #conference: Preprint
-    #pdf: ./assets/files/BMVC_mainpaper.pdf
-    #code: https://github.com/kodaikawamura/Region-basedTTA
-    #bibtex: https://bib.yliu.me/MICCAI23.txt
-    #image: ./assets/img/CVPR2025.png
-    #notes: Early Accept
-
   - title: Region-based Entropy Separation for One-shot Test-Time Adaptation
     authors: <strong>Kodai Kawamura</strong>, Shunya Yamagami, Go Irie
     conference_short: BMVC
