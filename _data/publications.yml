@@ -6,7 +6,7 @@ main:
     #pdf: ./assets/files/BMVC_mainpaper.pdf
     #code: https://github.com/kodaikawamura/Region-basedTTA
     #bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/cvpr2025.pdf
+    image: ./assets/img/CVPR2025.png
     #notes: Early Accept
 
   - title: Region-based Entropy Separation for One-shot Test-Time Adaptation
