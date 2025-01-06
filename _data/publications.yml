@@ -4,7 +4,7 @@ main:
     authors: Minhyuk Jang, Youngdong Jang, Jaehyeok Lee,  <strong>Kodai Kawamura</strong>, Feng Yang, Sangpil Kim
     conference_short: Preprint
     conference: Preprint
-    #pdf: ./assets/files/BMVC_mainpaper.pdf
+    pdf: https://arxiv.org/abs/2412.09122
     #code: https://github.com/kodaikawamura/Region-basedTTA
     #bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/CVPR2025.png
