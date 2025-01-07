@@ -9,7 +9,7 @@ I am an undergraduate student at Tokyo University of Science in Japan, graduatin
 ## Research Interests
 
 - **Artificial Intelligence:** Trustworthy AI and Watermarking
-- **Machine Learning:** Domain Adaptation, Efficient Learning, and Vision-Language Models.
+- **Machine Learning:** Domain Adaptation, Test-Time Adaptation, and Vision-Language Models.
 
 
 ## News
