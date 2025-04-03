@@ -8,7 +8,6 @@ Before that, I obtained my B.E. from Tokyo University of Science in Japan under 
 
 ## Research Interests
 
-- **Artificial Intelligence:** AI Security  
 - **Machine Learning:** Vision-Language Models
 
 
