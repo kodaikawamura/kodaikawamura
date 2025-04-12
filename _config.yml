@@ -1,12 +1,12 @@
 # Basic Information 
 title: Kodai Kawamura
-position: Undergraduate Student
-affiliation: Tokyo University of Science
+position: #Ph.D. Student
+affiliation: #National University of Singapore
 email: 4620034@ed.tus.ac.jp
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: Kodai Kawamura, Tokyo University of Science
+keywords: Kodai Kawamura
 description: Learn more about Kodai Kawamura, an ambitious computer science student specializing in AI security and domain adaptation.
 canonical: https://minimal-light-theme.yliu.me/
 
@@ -30,7 +30,7 @@ enable_footnote: true
 
 # Auto Dark Mode
 # You may use the option to disable the automatic dark theme
-auto_dark_mode: true
+auto_dark_mode: false
 
 # Font
 # You can use this option to choose between Serif or Sans Serif fonts.

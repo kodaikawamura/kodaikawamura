@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 ## About Me
-I am a senior at Tokyo University of Science in Japan.
+I am an incoming Ph.D. student.
 Before that, I obtained my B.E. from Tokyo University of Science in Japan under Prof. Go Irie.
 
 ## Research Interests
