@@ -4,13 +4,11 @@ layout: homepage
 
 ## About Me
 I am a senior at Tokyo University of Science in Japan.
-// I am an incoming PhD student under Prof. Alfred Chen at UC Irvine. 
-// Before that, I obtained my B.E. from Tokyo University of Science in Japan under Prof. Go Irie.
+Before that, I obtained my B.E. from Tokyo University of Science in Japan under Prof. Go Irie.
 
 ## Research Interests
 
-- **Artificial Intelligence:** AI Security  
-- **Machine Learning:** Vision-Language Models
+- **Machine Learning:** Computer Vision, Vision-Language Models
 
 
 ## News
