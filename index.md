@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 ## About Me
-I am an incoming Ph.D. student.
+I am a first year Ph.D. student at National University of Singapore.
 Before that, I obtained my B.E. from Tokyo University of Science in Japan under Prof. Go Irie.
 
 ## Research Interests
