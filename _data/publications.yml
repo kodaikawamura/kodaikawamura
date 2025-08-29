@@ -1,5 +1,15 @@
 main:
 
+  #- title: Approximate Domain Unlearning for Vision-Language Models
+    #authors: <strong>Kodai Kawamura</strong>, Yuta Goto, Rintaro Yanagi, Hirokatsu Kataoka, Go Irie
+    #conference_short: 
+    #conference: 
+    #pdf: 
+    #code: 
+    ##bibtex: https://bib.yliu.me/MICCAI23.txt
+    #image: 
+    ##notes: Early Accept
+
 
   - title: Region-based Entropy Separation for One-shot Test-Time Adaptation
     authors: <strong>Kodai Kawamura</strong>, Shunya Yamagami, Go Irie
