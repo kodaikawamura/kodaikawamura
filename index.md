@@ -9,8 +9,7 @@ I also collaborate closely with Dr. Hirokatsu Kataoka.
 
 ## Research Interests
 
-- **Machine Learning:** Computer Vision, Vision-Language Models
-- **Artificial Intelligence** AI Security
+- **Artificial Intelligence:** Machine Learning and Vision-Language Models
 
 {% include_relative _includes/publications.md %}
 
