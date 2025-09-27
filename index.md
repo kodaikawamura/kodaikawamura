@@ -4,8 +4,8 @@ layout: homepage
 
 ## About Me
 I am a first year Ph.D. student at National University of Singapore, working under [Prof. Kenji Kawaguchi](https://ml.comp.nus.edu.sg/kawaguchi).
-Before that, I obtained my B.E. from Tokyo University of Science in Japan under Prof. Go Irie.
-I also collaborate closely with Dr. Hirokatsu Kataoka.
+Before that, I obtained my B.E. from Tokyo University of Science in Japan under [Prof. Go Irie](https://scholar.google.com/citations?user=2bCSG1AAAAAJ&hl=en).
+I also collaborate closely with [Dr. Hirokatsu Kataoka](https://hirokatsukataoka.net).
 
 ## Research Interests
 
