@@ -10,7 +10,7 @@ I also collaborate closely with Dr. Hirokatsu Kataoka.
 ## Research Interests
 
 - **Diffusion Language Models**
-- **Multi Token Predictoin**
+- **Multi-Token Predictoin**
 - **Vision-Language Models**
 
 
