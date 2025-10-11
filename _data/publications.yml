@@ -1,20 +1,20 @@
 main:
 
-  #- title: Approximate Domain Unlearning for Vision-Language Models
-    #authors: <strong>Kodai Kawamura</strong>, Yuta Goto, Rintaro Yanagi, Hirokatsu Kataoka, Go Irie
-    #conference_short: 
-    #conference: 
-    #pdf: 
-    #code: 
-    ##bibtex: https://bib.yliu.me/MICCAI23.txt
-    #image: 
-    ##notes: Early Accept
+  - title: Approximate Domain Unlearning for Vision-Language Models
+    authors: <strong>Kodai Kawamura</strong>, Yuta Goto, Rintaro Yanagi, Hirokatsu Kataoka, Go Irie
+    conference_short: NeurIPS
+    conference: The Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2025.
+    pdf: https://arxiv.org/abs/2510.08132
+    code: https://kodaikawamura.github.io/Domain_Unlearning/
+    #bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/NeurIPS2025.png
+    notes: Spotlight (Top 3.5%)
 
 
   - title: Region-based Entropy Separation for One-shot Test-Time Adaptation
     authors: <strong>Kodai Kawamura</strong>, Shunya Yamagami, Go Irie
     conference_short: BMVC
-    conference: British Machine Vision Conference <strong>(BMVC)</strong>, 2024.
+    conference: The British Machine Vision Conference <strong>(BMVC)</strong>, 2024.
     pdf: https://bmva-archive.org.uk/bmvc/2024/papers/Paper_16/paper.pdf
     code: https://github.com/kodaikawamura/Region-basedTTA
     #bibtex: https://bib.yliu.me/MICCAI23.txt
