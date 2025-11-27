@@ -17,9 +17,9 @@ I also collaborate closely with [Dr. Hirokatsu Kataoka](https://hirokatsukataoka
 {% include_relative _includes/publications.md %}
 
 ## Talks
-- **[November 2025]** *Region-based Entropy Separation for One-shot Test-Time Adaptation* – Visual Geometry Group (VGG), University of Oxford
+- **[October 2025]** *Forgetting Visual Domains in Vision-Language Models* - Invited poster presentation at LIMIT Workshop (ICCV 2025)
+- **[November 2024]** *Region-based Entropy Separation for One-shot Test-Time Adaptation* - Visual Geometry Group (VGG), University of Oxford
 
 ## Honours and Awards
-- **[May 2025]** *Excellent Paper Award* – Computer Vision and Image Media / Pattern Recognition and Media Understanding
 - **[March 2025]** *Outstanding Student Award* – Tokyo University of Science
 - **[March 2023]** *Dean’s Award* – Top 5 GPA in the Department, Tokyo University of Science
