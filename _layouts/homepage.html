@@ -14,8 +14,20 @@
     <link rel="canonical" href="{{ site.canonical }}"/>
     {% endif %}
 
-    <link rel="icon" media="(prefers-color-scheme:dark)" href="{{ site.favicon_dark }}" type="image/png" />
-    <link rel="icon" media="(prefers-color-scheme:light)" href="{{ site.favicon }}" type="image/png" />
+    {% if site.favicon_dark %}
+      {% if site.favicon_dark contains 'data:image' or site.favicon_dark contains '.png' or site.favicon_dark contains '.ico' or site.favicon_dark contains '.svg' %}
+        <link rel="icon" media="(prefers-color-scheme:dark)" href="{{ site.favicon_dark }}" type="image/png" />
+      {% else %}
+        <link rel="icon" media="(prefers-color-scheme:dark)" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>{{ site.favicon_dark }}</text></svg>" type="image/svg+xml" />
+      {% endif %}
+    {% endif %}
+    {% if site.favicon %}
+      {% if site.favicon contains 'data:image' or site.favicon contains '.png' or site.favicon contains '.ico' or site.favicon contains '.svg' %}
+        <link rel="icon" media="(prefers-color-scheme:light)" href="{{ site.favicon }}" type="image/png" />
+      {% else %}
+        <link rel="icon" media="(prefers-color-scheme:light)" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>{{ site.favicon }}</text></svg>" type="image/svg+xml" />
+      {% endif %}
+    {% endif %}
     <script src="./assets/js/favicon-switcher.js" type="application/javascript"></script>
 
     <link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin=anonymous>
