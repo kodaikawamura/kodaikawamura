@@ -1,7 +1,7 @@
 main:
 
   - title: Approximate Domain Unlearning for Vision-Language Models
-    authors: <strong>Kodai Kawamura*</strong>, Yuta Goto*, Rintaro Yanagi, Hirokatsu Kataoka, Go Irie
+    authors: <strong>Kodai Kawamura</strong>, Yuta Goto, Rintaro Yanagi, Hirokatsu Kataoka, Go Irie
     conference_short: NeurIPS
     conference: The Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2025.
     pdf: https://arxiv.org/abs/2510.08132
