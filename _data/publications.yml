@@ -1,5 +1,13 @@
 main:
 
+  - title: Rethinking Soft Tokens for Parallel Decoding in Diffusion Language Models
+    authors: <strong>Kodai Kawamura</strong>, Kenji Kawaguchi, Anji Liu
+    conference_short: arXiv
+    #conference: The Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2025.
+    pdf: https://arxiv.org/abs/2609.37391
+    code: https://github.com/kodaikawamura/rethinking-soft-tokens
+    image: ./assets/img/soft_token.png
+
   - title: Approximate Domain Unlearning for Vision-Language Models
     authors: <strong>Kodai Kawamura</strong>, Yuta Goto, Rintaro Yanagi, Hirokatsu Kataoka, Go Irie
     conference_short: NeurIPS
